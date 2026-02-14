@@ -42,5 +42,5 @@ Computer Science student focused on building clean and scalable web interfaces.<
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
 </div>
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=dark&hide_border=false" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=kaycke1337&theme=dark&hide_border=false" height="220"/>
 </div>
