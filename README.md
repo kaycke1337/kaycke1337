@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://pixelcolorist.com/wp-content/uploads/2025/08/crow_with_lantern_pixel_art.png" />
+</div>
 
-<!--
-**kaycke1337/kaycke1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Kaycke 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Web Developer focused on modern front-end applications.
+</p>
+
+---
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+Computer Science student focused on building clean and scalable web interfaces.<br><br>
+🔭 Currently working on front-end projects with React.<br>
+📚 Currently learning TypeScript and Next.js.<br>
+⚡ Interested in web architecture, automation and modern UI development.
+</p>
+
+---
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+</div>
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=dark&hide_border=false" height="220"/>
+</div>
