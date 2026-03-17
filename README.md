@@ -50,10 +50,6 @@ Computer Science student focused on building clean and scalable web interfaces.<
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
 </div>
   <img src="https://streak-stats.demolab.com?user=kaycke1337&theme=dark&hide_border=false" height="220"/>
 </div>
