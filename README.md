@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Kaycke 👋</h1>
 
 <p align="center">
-  Web Developer focused on modern front-end applications.
+  Building clean and scalable applications
 </p>
 
 ---
@@ -15,10 +15,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Computer Science student focused on building clean and scalable web interfaces.<br><br>
-🔭 Currently working on front-end projects with React.<br>
 📚 Currently learning TypeScript and Next.js.<br>
-⚡ Interested in web architecture, automation and modern UI development.
+⚡ Interested in web architecture, automation and software engineering
 </p>
 
 ---
