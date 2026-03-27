@@ -21,7 +21,7 @@ Sou desenvolvedor full stack júnior com foco em frontend, construindo aplicaç�
 Tenho experiência prática com:
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
 - **Backend:** Node.js, Express, Python, FastAPI
-- **Banco de dados:** SQLite, MySQL
+- **Banco de dados:** MySQL
 - **Ferramentas:** Git, Docker, Linux
 
 Atualmente, estou buscando minha primeira oportunidade profissional em desenvolvimento web, com interesse especial em:
