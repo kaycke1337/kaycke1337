@@ -77,8 +77,8 @@ Busco minha primeira oportunidade como desenvolvedor web, preferencialmente em v
 
 ## 📫 Contato
 
-- LinkedIn: **[coloca teu link aqui]**
-- Email: **[coloca teu email aqui]**
+- LinkedIn: **[https://www.linkedin.com/in/kaycke-guedes-655611384/]**
+- Email: **[kaycke667@gmail.com]**
 
 ---
 
