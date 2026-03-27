@@ -9,7 +9,7 @@ Desenvolvedor Full Stack Júnior com foco em Frontend
 </p>
 
 <p align="center">
-Construindo aplicações web com React, Next.js, Node.js e Python
+Construindo aplicações web com React, Next.js, Node.js e TypeScript
 </p>
 
 ---
