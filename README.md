@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou Kaycke 👋</h1>
 
 <p align="center">
-Desenvolvedor Full Stack Júnior com foco em Frontend
+Desenvolvedor Full Stack
 </p>
 
 <p align="center">
